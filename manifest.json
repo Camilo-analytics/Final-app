@@ -1,0 +1,17 @@
+{
+  "name": "Bisonte Cockpit",
+  "short_name": "Bisonte",
+  "description": "Cockpit de entrenamiento 5 días · fuerza · hipertrofia · recomposición",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#CC1F2E",
+  "lang": "es",
+  "icons": [
+    {"src":"spidey-icon-180-v9.png","sizes":"180x180","type":"image/png","purpose":"any"},
+    {"src":"spidey-icon-192-v9.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"spidey-icon-512-v9.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
